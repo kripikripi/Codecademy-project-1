@@ -1,0 +1,39 @@
+@import url(null.scss);
+.header {
+  margin: 80px 0px;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  display: block;
+  background: url("/resources/img/pattern.webp");
+}
+
+h2 {
+  display: block;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brush {
+  background-color: mediumspringgreen;
+}
+
+#frame {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: blue;
+}
+
+h3 {
+  font-family: Helvetica;
+}
+
+span {
+  color: blue;
+}/*# sourceMappingURL=style.css.map */
